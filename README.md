@@ -37,7 +37,7 @@ Installation
 1.	Download and extract Bigboard to your web directory or get the latest
 	development version with:
 
-        git clone git://github.com/savetheinternet/Tinyboard.git
+        git clone git://github.com/reacttm/bigboard.git
 	
 2.	Navigate to ```install.php``` in your web browser and follow the
 	prompts.
